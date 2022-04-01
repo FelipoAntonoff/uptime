@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 599,
-    "timeWeek": 449,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "time": 533,
+    "timeDay": 730,
+    "timeWeek": 504,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 545,
-    "timeWeek": 550,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "time": 650,
+    "timeDay": 561,
+    "timeWeek": 540,
+    "timeMonth": 650,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/felipoantonoff.com",
     "slug": "felipo-antonoff-site",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 956,
-    "timeDay": 1337,
-    "timeWeek": 1152,
-    "timeMonth": 956,
-    "timeYear": 956,
-    "dailyMinutesDown": {
-      "2022-03-31": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 941,
+    "timeDay": 1420,
+    "timeWeek": 1165,
+    "timeMonth": 941,
+    "timeYear": 941,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Infinite Cloud - Hospedagem",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 713,
-    "timeDay": 95,
-    "timeWeek": 112,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "time": 698,
+    "timeDay": 368,
+    "timeWeek": 150,
+    "timeMonth": 698,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2022-03-14": 23
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 94,
-    "timeWeek": 100,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "time": 120,
+    "timeDay": 112,
+    "timeWeek": 108,
+    "timeMonth": 120,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 150,
-    "timeWeek": 204,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 260,
+    "timeDay": 532,
+    "timeWeek": 256,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   }
 ]
