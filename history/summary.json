@@ -40,18 +40,20 @@
     "url": "https://felipoantonoff.com/",
     "icon": "https://favicons.githubusercontent.com/felipoantonoff.com",
     "slug": "felipo-antonoff-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 432,
-    "timeWeek": 784,
-    "timeMonth": 887,
-    "timeYear": 887,
-    "dailyMinutesDown": {}
+    "time": 959,
+    "timeDay": 1812,
+    "timeWeek": 1025,
+    "timeMonth": 959,
+    "timeYear": 959,
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "Infinite Cloud - Hospedagem",
