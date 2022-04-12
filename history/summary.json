@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 537,
-    "timeWeek": 520,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "time": 532,
+    "timeDay": 1025,
+    "timeWeek": 617,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 821,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 642,
+    "timeDay": 823,
+    "timeWeek": 688,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/felipoantonoff.com",
     "slug": "felipo-antonoff-site",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 919,
-    "timeDay": 415,
-    "timeWeek": 966,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 916,
+    "timeDay": 770,
+    "timeWeek": 997,
+    "timeMonth": 916,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2022-04-05": 34
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 536,
-    "timeDay": 211,
-    "timeWeek": 174,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 526,
+    "timeDay": 197,
+    "timeWeek": 190,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2022-03-14": 23
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 176,
+    "time": 111,
+    "timeDay": 59,
     "timeWeek": 105,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 737,
-    "timeWeek": 345,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "time": 286,
+    "timeDay": 340,
+    "timeWeek": 372,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   }
 ]
