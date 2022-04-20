@@ -22,7 +22,7 @@
     "url": "https://docs.codemarket.com.br/",
     "icon": "https://favicons.githubusercontent.com/docs.codemarket.com.br",
     "slug": "codemarket-docs-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 546,
     "timeMonth": 604,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   },
   {
     "name": "Felipo Antonoff - Site",
