@@ -43,18 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/felipoantonoff.com",
     "slug": "felipo-antonoff-site",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 694,
     "timeDay": 384,
     "timeWeek": 445,
     "timeMonth": 489,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-06-16": 11,
       "2022-04-18": 28,
       "2022-04-12": 32,
       "2022-04-05": 34
@@ -65,7 +64,7 @@
     "url": "http://bit.ly/HospedagemInfiniteCloud",
     "icon": "https://favicons.githubusercontent.com/bit.ly",
     "slug": "infinite-cloud-hospedagem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -77,6 +76,7 @@
     "timeMonth": 386,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-03-14": 23
     }
   },
@@ -86,19 +86,17 @@
     "icon": "https://favicons.githubusercontent.com/www.digitalocean.com",
     "slug": "digital-ocean-infra",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 123,
     "timeWeek": 159,
     "timeMonth": 130,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2022-06-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Amazon AWS - Infra",
