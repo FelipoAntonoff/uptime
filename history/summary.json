@@ -113,19 +113,19 @@
     "url": "https://aws.amazon.com/pt/?nc2=h_lg",
     "icon": "https://favicons.githubusercontent.com/aws.amazon.com",
     "slug": "amazon-aws-infra",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 1820,
-    "timeWeek": 806,
-    "timeMonth": 440,
-    "timeYear": 344,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 343,
+    "timeDay": 1288,
+    "timeWeek": 742,
+    "timeMonth": 433,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-06-23": 0
+      "2022-06-23": 22
     }
   }
 ]
